@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm Anna Wilkinson, an epidemiologist and biostatistician. 
+I'm Anna Wilkinson, an epidemiologist and biostatistician, based at the [Burnet Institute](https://www.burnet.edu.au/about-us/our-people-and-structure/our-people/anna-wilkinson/) in Melbourne, Australia.
+The purpose of my research is to generate epidemiological evidence for evaluation, identify gaps in the public health response, and highlight new opportunities to intervene, to achieve the aim of eliminating these infections as public health threats. I am passionate about integrity in research and improving the quality of science, through teaching and training to elevate the skill level of all researchers.
+
+
 
 
 <!--
