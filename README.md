@@ -9,7 +9,7 @@ I am an adjunct at [Monash University](https://research.monash.edu/en/persons/an
 - 🌱 I’m currently learning data visualisation with Tidy Tuesday
 
 
-You can find out more about my academic work at my [Monash profile](https://research.monash.edu/en/persons/anna-wilkinson/) inlcuding [publications](https://research.monash.edu/en/persons/anna-wilkinson/publications/).
+You can find out more about my academic work at my [Monash profile](https://research.monash.edu/en/persons/anna-wilkinson/) including [publications](https://research.monash.edu/en/persons/anna-wilkinson/publications/).
 
 
 <!--
