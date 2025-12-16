@@ -5,6 +5,9 @@ The purpose of my research is to generate epidemiological evidence for evaluatio
 
 I am an adjunct at [Monash University](https://research.monash.edu/en/persons/anna-wilkinson/) in the School of Public Health and Preventative Medicine and supervise students through the School. I am on the Council of the [Vic & Tas Branch of the Statistical Society of Australia](https://www.statsoc.org.au/Victoria), and I am a non-Executive Director at [Sexual Health Victoria](https://shvic.org.au/board).  
 
+- 🔭 I’m currently working on machine learning models using elecontric medical record data
+- 🌱 I’m currently learning data visualisation with Tidy Tuesday
+
 
 <!--
 **AnnaLWilkinson/AnnaLWilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
