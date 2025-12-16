@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anna Wilkinson, an epidemiologist and biostatistician, based at the [Burnet Institute](https://www.burnet.edu.au/about-us/our-people-and-structure/our-people/anna-wilkinson/) in Melbourne, Australia.
+I'm Anna Wilkinson, an epidemiologist and biostatistician, specialising in viral hepatitis and sexually transmissible infections, based at the [Burnet Institute](https://www.burnet.edu.au/about-us/our-people-and-structure/our-people/anna-wilkinson/) in Melbourne, Australia.
 The purpose of my research is to generate epidemiological evidence for evaluation, identify gaps in the public health response, and highlight new opportunities to intervene, to achieve the aim of eliminating these infections as public health threats. I am passionate about integrity in research and improving the quality of science, through teaching and training to elevate the skill level of all researchers.
 
 I am an adjunct at [Monash University](https://research.monash.edu/en/persons/anna-wilkinson/) in the School of Public Health and Preventative Medicine and supervise students through the School. I am on the Council of the [Vic & Tas Branch of the Statistical Society of Australia](https://www.statsoc.org.au/Victoria), and I am a non-Executive Director at [Sexual Health Victoria](https://shvic.org.au/board).  
