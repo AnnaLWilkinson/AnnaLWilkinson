@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Anna Wilkinson, an epidemiologist and biostatistician. 
+
+
 <!--
 **AnnaLWilkinson/AnnaLWilkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
